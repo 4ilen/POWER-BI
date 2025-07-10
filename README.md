@@ -29,9 +29,6 @@ Permite filtrar por **sucursal** y **rango de fechas**, con visualizaciones orie
 - Gateway para actualización automática
 - VPS para actualización de datos periódica
 
----
-
-📁 [Ver imagen del tablero](https://github.com/4ilen/POWER-BI/blob/main/venta_diaria.png?raw=true)
 
 ---
 
@@ -63,8 +60,3 @@ Este tablero permite analizar los artículos más vendidos en una cadena de prov
 - Actualización con Gateway en VPS
 
 
-
-📁 [Ver imagen del tablero](https://github.com/4ilen/POWER-BI/blob/main/articulo_por_rubro.png?raw=true)
-
-
-📁 [Ver imagen del tablero](https://github.com/4ilen/POWER-BI/blob/main/articulo_por_rubro.png?raw=true)
