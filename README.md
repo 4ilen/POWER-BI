@@ -33,6 +33,8 @@ Permite filtrar por **sucursal** y **rango de fechas**, con visualizaciones orie
 
 📁 [Ver imagen del tablero](https://github.com/4ilen/POWER-BI/blob/main/venta_diaria.png?raw=true)
 
+---
+
 ## 📦 Proyecto: Artículos por Rubro
 
 ![Vista previa del tablero](https://github.com/4ilen/POWER-BI/blob/main/articulo_por_rubro.png?raw=true)
