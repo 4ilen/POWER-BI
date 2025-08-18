@@ -65,7 +65,12 @@ Este tablero permite analizar los artículos más vendidos en una cadena de prov
 ![Vista previa del tablero](https://github.com/4ilen/POWER-BI/blob/main/comparativa.png?raw=true)
 
 ### 🧾 Descripción
-Tablero que permite comparar los precios de venta de determinados artículos.
+Este tablero permite comparar los precios de venta de determinados artículos.
+Se compara con: Carrefour, VEA, VITAL, etc. 
+
+### 🔍 Funcionalidades principales
+- Filtrar por descripción del artículo
+- Filtrar mediante la selección de un articulo manual
 
 ### ⚙️ Tecnologías utilizadas
 
