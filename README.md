@@ -4,7 +4,7 @@ Este repositorio contiene tableros desarrollados en Power BI orientados al anál
 
 ---
 
-## 📌 Proyecto: **Venta Diaria**
+## Proyecto: **Venta Diaria**
 
 ![Vista previa del tablero](https://github.com/4ilen/POWER-BI/blob/main/venta_diaria.png?raw=true)
 
@@ -32,7 +32,7 @@ Permite filtrar por **sucursal** y **rango de fechas**, con visualizaciones orie
 
 ---
 
-## 📦 Proyecto: Artículos por Rubro
+## Proyecto: Artículos por Rubro
 
 ![Vista previa del tablero](https://github.com/4ilen/POWER-BI/blob/main/articulo_por_rubro.png?raw=true)
 
@@ -58,5 +58,20 @@ Este tablero permite analizar los artículos más vendidos en una cadena de prov
 - Modelado con DAX
 - Visualizaciones interactivas con filtros y búsqueda dinámica
 - Actualización con Gateway en VPS
+
+---
+## Proyecto: Comparativo de precios
+
+
+### 🧾 Descripción
+Tablero que permite comparar los precios de venta de determinados artículos.
+
+### ⚙️ Tecnologías utilizadas
+
+- Power BI Desktop
+- Modelado con DAX
+- Gateway para actualización automática
+- VPS para actualización de datos periódica
+
 
 
