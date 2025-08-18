@@ -62,6 +62,7 @@ Este tablero permite analizar los artículos más vendidos en una cadena de prov
 ---
 ## Proyecto: Comparativo de precios
 
+![Vista previa del tablero](https://github.com/4ilen/POWER-BI/blob/main/comparativa.png?raw=true)
 
 ### 🧾 Descripción
 Tablero que permite comparar los precios de venta de determinados artículos.
